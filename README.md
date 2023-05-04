@@ -4,7 +4,7 @@ Yeah I Know it is literally just Python Django, but its the only template I coul
 First press the giant button
 Do some boring github stuff
 Open a new bash terminal on the bottom right
-Run "wget <url>"
+Run "wget (url)"
 Yeah you are done
 
 ## Next Steps
